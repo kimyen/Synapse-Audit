@@ -50,7 +50,7 @@
 		<dependency>
 			<groupId>org.sagebionetworks</groupId>
 			<artifactId>synapse-warehouse-workers</artifactId>
-			<version>2015-10-02-74-1808af4</version>
+			<version>develop-SNAPSHOT</version>
 			<classifier>sources</classifier>
 		</dependency>
 		<dependency>
